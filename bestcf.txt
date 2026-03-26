@@ -1,10 +1,2 @@
-104.18.35.5
-104.17.60.149
-104.19.146.59
-104.17.191.71
-104.17.154.162
-104.17.151.94
-104.19.148.181
-104.17.103.175
-198.41.209.215
-172.64.154.147
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
